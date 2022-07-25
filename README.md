@@ -1,6 +1,6 @@
 # E-Commerce Backend
 
-![Example Screenshot](./public/assets/images/Screenshot1.PNG)
+![Example Screenshot](./public/assets/images/Screenshot1.JPG)
 
 
   ## Badges
